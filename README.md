@@ -1,6 +1,7 @@
 # Computer Science Fellowships & Scholarships
 A curated list of fellowships and scholarships for graduate students in Computer Science and related fields.
 
+Resources: https://github.com/YamilG/fellowships, https://github.com/benas/awesome-software-craftsmanship#school-conferences, https://github.com/watson/conferences
 
 ### Actionables
 * Create table of fellowships
