@@ -11,42 +11,38 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| -----:|
-| Google Anita Borg Scholarship      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-Google Anita Borg Scholarship
+| ------------- |:-------------:| ------------:|
+| Google Anita Borg Scholarship |      |        |
+|  Society of Women Engineers |               |              |
+|               |               |              |
+
 
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Facebook Fellowship Program and Emerging Scholar Awards 
-Snap Research Fellowship & Scholarship Program
-NSF Graduate Research Fellowship
-The Paul & Daisy Soros Fellowships for New Americans
-GEM Fellowship Program
-Science, Mathematics And Research for Transformation (SMART) Scholarship for Service Program
-Ford Foundation Fellowship Program
-DOE Computational Science Graduate Fellowship 
-National Defense Science and Engineering Graduate (NDSEG) Fellowship
-Microsoft Research PhD Fellowship Program
-IBM Ph.D. Fellowship
-Google PhD Fellowship
-NPSC Fellowship
-Hertz Fellowship
-Society of Women Engineers
-Twitter Public Policy Fellowship
-Congressional Innovation Scholars Program
-Microsoft Ada Lovelace Fellowship
-HRT Hail Fellowship
-FLEFF Diversity Scholars Fellowship
-Aspen Fellowships https://www.aspeninstitute.org/programs/
-ACM SIGHPC / Intel Computational & Data Science Fellowship
-Ph.D. Fellowship: Diversity in AI for Good: https://boards.greenhouse.io/dataminr/jobs/1462474?fbclid=IwAR3gGpUADwbZj8byolmKNQAQXnfBkDJUPm5oOU_3cqJAWWY2pE6awpOzzqY
-AAAI/ACM SIGAI Doctoral Dissertation Award 
-SCGSR Program - http://science.energy.gov/wdts/scgsr/
-PEO Scholar -  https://www.peointernational.org/psa-eligibility-requirements
+| ------------- |:-------------:| ------------:|
+| AAAI/ACM SIGAI Doctoral Dissertation Award  |               | PhD |
+| ACM SIGHPC / Intel Computational & Data Science Fellowship |               |              |
+| Aspen Fellowships https://www.aspeninstitute.org/programs/  |               |              |
+| Congressional Innovation Scholars Program |               |              |
+| Datminr Diversity in AI for Good Fellowship |               |              |
+| DOE Computational Science Graduate Fellowship |               |              |
+| Facebook Fellowship Program and Emerging Scholar Awards | October | PhD |
+| FLEFF Diversity Scholars Fellowship     |               |              |
+| Ford Foundation Fellowship Program |               |              |
+| GEM Fellowship Program |               |              |
+| Google PhD Fellowship |               |              |
+| Hertz Fellowship |               |              |
+| HRT Hail Fellowship |               |              |
+| IBM Ph.D. Fellowship |               |              |
+| Microsoft Ada Lovelace Fellowship |               |              |
+| Microsoft Research PhD Fellowship Program |              |
+| National Defense Science and Engineering Graduate (NDSEG) Fellowship |               |              |
+| NPSC Fellowship |               |              |
+| NSF Graduate Research Fellowship |               |              |
+| Paul & Daisy Soros Fellowships for New Americans |               |              |
+| PEO Scholar -  https://www.peointernational.org/psa-eligibility-requirements |               |              |
+| SCGSR Program - http://science.energy.gov/wdts/scgsr/ |               |              |
+| SMART Scholarship for Service Program |               |              |
+| Snap Research Fellowship & Scholarship Program |               |              |
+| Twitter Public Policy Fellowship |               |              |
+|               |               |              |
