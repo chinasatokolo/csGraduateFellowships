@@ -51,7 +51,7 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 | Twitter Public Policy Fellowship | November | Both |
 |               |               |              |
 
-Resources for Applying to Fellowships
+## Resources for Applying to Fellowships
 * https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/
 * https://www.gograd.org/financial-aid/scholarships/fellowships/
 * https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/
