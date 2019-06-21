@@ -52,8 +52,8 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 |               |               |              |
 
 ## Resources for Applying to Fellowships
-* https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/
-* https://www.gograd.org/financial-aid/scholarships/fellowships/
-* https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/
-* https://funding.yale.edu/applying/how-apply
-* http://pfforphds.com/fellowship-application/
+* Applying for Fellowships - https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/
+* Finding & Applying to Fellowships - https://www.gograd.org/financial-aid/scholarships/fellowships/
+* How to Get Help with Your Fellowship Application - https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/
+* Preparing a Fellowship Application - https://funding.yale.edu/applying/how-apply
+* How to Find, Apply for, and Win a Fellowship During Your PhD or Postdoc - http://pfforphds.com/fellowship-application/
