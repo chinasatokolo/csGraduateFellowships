@@ -41,19 +41,18 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 | Microsoft Ada Lovelace Fellowship |               | PhD |
 | Microsoft Research PhD Fellowship Program |              | PhD |
 | National Defense Science and Engineering Graduate (NDSEG) Fellowship |               | PhD |
-| NPSC Fellowship - http://www.npsc.org/index.html| December | Both |
+| [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
 | NSF Graduate Research Fellowship | October | Both |
-| Paul & Daisy Soros Fellowships for New Americans - https://www.pdsoros.org/| November | Both |
-| PEO Scholar -  https://www.peointernational.org/psa-eligibility-requirements |               | PhD |
-| SCGSR Program - http://science.energy.gov/wdts/scgsr/ | May | PhD |
-| SMART Scholarship for Service Program | December | Both |
-| Snap Research Fellowship & Scholarship Program | December | PhD |
-| Twitter Public Policy Fellowship | November | Both |
+| [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
+| [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) |               | PhD |
+| [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
+| [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |
+| [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |
 |               |               |              |
 
 ## Resources for Applying to Fellowships
-* Applying for Fellowships - https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/
-* Finding & Applying to Fellowships - https://www.gograd.org/financial-aid/scholarships/fellowships/
-* How to Get Help with Your Fellowship Application - https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/
-* Preparing a Fellowship Application - https://funding.yale.edu/applying/how-apply
-* How to Find, Apply for, and Win a Fellowship During Your PhD or Postdoc - http://pfforphds.com/fellowship-application/
+* [Applying for Fellowships](https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/)
+* [Finding & Applying to Fellowships](https://www.gograd.org/financial-aid/scholarships/fellowships/)
+* [How to Get Help with Your Fellowship Application](https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/)
+* [Preparing a Fellowship Application](https://funding.yale.edu/applying/how-apply)
+* [How to Find, Apply for, and Win a Fellowship During Your PhD or Postdoc](http://pfforphds.com/fellowship-application/)
