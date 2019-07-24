@@ -39,10 +39,10 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 | HRT Hail Fellowship |               | PhD |
 | IBM Ph.D. Fellowship |               |              |
 | Microsoft Ada Lovelace Fellowship |               | PhD |
-| Microsoft Research PhD Fellowship Program |              | PhD |
-| National Defense Science and Engineering Graduate (NDSEG) Fellowship |               | PhD |
+| [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |
+| National Defense Science and Engineering Graduate [(NDSEG) Fellowship](https://ndseg.asee.org/) |               | PhD |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
-| NSF Graduate Research Fellowship | October | Both |
+| [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
 | [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) |               | PhD |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
