@@ -5,14 +5,15 @@ A curated list of fellowships and scholarships for graduate students in Computer
 ## Awards
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| AAAI/ACM SIGAI Doctoral Dissertation Award  | October | PhD |
+| [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
 
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| Google Anita Borg Scholarship | December | Both |
-|  Society of Women Engineers | Varies | Both|
+| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
+| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
+| [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
 |               |               |              |
 
 
