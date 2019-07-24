@@ -26,8 +26,8 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| ACM SIGHPC / Intel Computational & Data Science Fellowship | April | Both|
-| Congressional Innovation Scholars Program |               | PhD |
+| [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
+| [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |
