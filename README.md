@@ -40,7 +40,7 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 | IBM Ph.D. Fellowship |               |              |
 | Microsoft Ada Lovelace Fellowship |               | PhD |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |
-| National Defense Science and Engineering Graduate [(NDSEG) Fellowship](https://ndseg.asee.org/) |               | PhD |
+| [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
 | [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
