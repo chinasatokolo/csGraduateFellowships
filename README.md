@@ -37,8 +37,8 @@ Resources: https://github.com/YamilG/fellowships, https://github.com/benas/aweso
 | Google PhD Fellowship |               | PhD |
 | Hertz Fellowship | October | PhD |
 | HRT Hail Fellowship |               | PhD |
-| IBM Ph.D. Fellowship |               |              |
-| Microsoft Ada Lovelace Fellowship |               | PhD |
+| [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/phdfellowship.shtml) | October | PhD |
+| [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
