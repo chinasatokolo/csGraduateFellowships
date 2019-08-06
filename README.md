@@ -48,6 +48,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 |               |               |              |
 
 ## Resources for Applying to Fellowships
+* [Fellowship Portal](https://www.profellow.com) (My favorite resource for finding fellowships!)
 * [Applying for Fellowships](https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/)
 * [Finding & Applying to Fellowships](https://www.gograd.org/financial-aid/scholarships/fellowships/)
 * [How to Get Help with Your Fellowship Application](https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/)
