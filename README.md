@@ -17,6 +17,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
 | [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
 | |  |  |
+| |  |  |
 
 
 ## Fellowships 
@@ -45,7 +46,9 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |
+| [Twitter PhD Research Fellowship]() |               |              |
 |               |               |              |
+| |  |  |
 
 ## Resources for Applying to Fellowships
 * [Fellowship Portal](https://www.profellow.com) (My favorite resource for finding fellowships!)
