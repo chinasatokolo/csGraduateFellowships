@@ -35,10 +35,12 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |
 | [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/phdfellowship.shtml) | October | PhD |
+| [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
+| [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |
 | [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) |   | PhD |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
