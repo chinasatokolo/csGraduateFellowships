@@ -25,7 +25,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | ------------- |:-------------:| ------------:|
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
-| [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | Both |
+| [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |
