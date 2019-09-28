@@ -44,7 +44,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |
 | [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |
-| [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) |   | PhD |
+| [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
 | [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
