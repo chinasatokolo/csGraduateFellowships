@@ -30,7 +30,6 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | Datminr Diversity in AI for Good Fellowship | December | PhD |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |
-| [FLEFF Diversity Scholars Fellowship](https://www.ithaca.edu/fleff/) | Rolling until March | PhD |
 | [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |
