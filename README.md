@@ -25,6 +25,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | ------------- |:-------------:| ------------:|
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
+| [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |
@@ -46,15 +47,18 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
 | [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |
+| [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |
+| [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |
 |               |               |              |
 | |  |  |
 
 ## Resources for Applying to Fellowships
 * [ProFellow Fellowship Portal](https://www.profellow.com) (My favorite resource for finding fellowships!)
+* [Carnegie Mellon](https://www.cs.cmu.edu/~gradfellowships/), [Princeton](https://www.cs.princeton.edu/grad/current-student-resources), and [Cornell](https://www.cs.cornell.edu/phd/current-students/fellowship-opportunities) Computer Science fellowship lists
 * [UCLA GRAPES Portal](https://grad.ucla.edu/funding/)
 * [Applying for Fellowships](https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/)
 * [Finding & Applying to Fellowships](https://www.gograd.org/financial-aid/scholarships/fellowships/)
