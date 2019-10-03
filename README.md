@@ -49,6 +49,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
+| [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |
 | [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |
