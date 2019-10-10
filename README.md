@@ -13,10 +13,10 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | ------------- |:-------------:| ------------:|
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
 | [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
-| [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
 | [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
 | [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
 | [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
+| [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
 | |  |  |
 | |  |  | 
 
@@ -24,9 +24,9 @@ A curated list of fellowships and scholarships for graduate students in Computer
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
 | [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |
+| [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |
