@@ -47,7 +47,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |
-| [PEO Scholar](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |
+| [PEO Scholar Award](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |
