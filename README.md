@@ -13,6 +13,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 | ------------- |:-------------:| ------------:|
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
 | [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
+| [Intel Scholarship](https://scholarships.uncf.org/Program/Details/9eb15008-3567-45ed-b62f-aa14c784b09a) | December | Both |
 | [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
 | [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
 | [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
