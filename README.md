@@ -27,6 +27,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
+| [AAUW American Fellowships](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/) | November | PhD |
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
 | [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |
