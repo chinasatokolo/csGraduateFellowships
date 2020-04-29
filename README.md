@@ -72,4 +72,5 @@ The best way to receive funding is through your respective graduate programs. Mo
 * [How to Get Help with Your Fellowship Application](https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/)
 * [Preparing a Fellowship Application](https://funding.yale.edu/applying/how-apply)
 * [How to Find, Apply for, and Win a Fellowship During Your PhD or Postdoc](http://pfforphds.com/fellowship-application/)
+* [Enhancing Your Fellowship Application](https://pathwaystoscience.org/pdf/EnhancingYourFellowshipApplication.pdf)
 
