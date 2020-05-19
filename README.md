@@ -8,7 +8,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
 | [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
-| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow?utm_source=twitter&utm_medium=social&utm_campaign=awds-esteelauder2020&utm_content=organic) | October | Post-PhD |
+| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow?utm_source=twitter&utm_medium=social&utm_campaign=awds-esteelauder2020&utm_content=organic) | June | Post-PhD |
 
 
 ## Scholarships
