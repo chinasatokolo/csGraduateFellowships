@@ -71,6 +71,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 * [ProFellow Fellowship Portal](https://www.profellow.com) (My favorite resource for finding fellowships!)
 * [Carnegie Mellon](https://www.cs.cmu.edu/~gradfellowships/), [Princeton](https://www.cs.princeton.edu/grad/current-student-resources), and [Cornell](https://www.cs.cornell.edu/phd/current-students/fellowship-opportunities) Computer Science fellowship lists
 * [UCLA GRAPES Portal](https://grad.ucla.edu/funding/)
+* [University of Illinois Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder/)
 * [Pathways to Science](https://www.pathwaystoscience.org/grad.aspx)
 
 ### Application Tips
