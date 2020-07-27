@@ -1,4 +1,4 @@
-# Computer Science Fellowships & Scholarships
+# Computer Science Awards, Scholarships, & Fellowships
 A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Chinasa Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
 
 The best way to receive funding is through your respective graduate programs. Most reputable PhD programs provide full funding through a teaching assistantship (TA), research assistantship (RA), or university fellowship. ProFellow has a great list of fully-funded PhD programs in Computer Science [here](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/). As you progress throughout your programs, you may find additional sources of funding helpful to travel to conferences, focus on your research without teaching commitments, or to upgrade your equipment. Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
@@ -9,7 +9,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | ------------- |:-------------:| ------------:|
 | [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
 | [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow?utm_source=twitter&utm_medium=social&utm_campaign=awds-esteelauder2020&utm_content=organic) | June | Post-PhD |
-
+| [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
