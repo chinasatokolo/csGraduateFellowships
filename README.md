@@ -76,18 +76,18 @@ The best way to receive funding is through your respective graduate programs. Mo
 
 ### Application Tips
 
-## Finding Fellowships
+#### Finding Fellowships
 * [Finding & Applying to Fellowships](https://www.gograd.org/financial-aid/scholarships/fellowships/)
 * [How to Find, Apply for, and Win a Fellowship During Your PhD or Postdoc](http://pfforphds.com/fellowship-application/)
 
-### Application Preparation
+#### Application Preparation
 * [Applying for Fellowships](https://grad.uw.edu/graduate-student-funding/for-students/fellowships/applying-for-fellowships/)
 * [A Guide to Preparing Fellowship Applications in STEM](https://grad.illinois.edu/sites/default/files/PDFs/Fellowship-Proposal-Writing-STEM.pdf)
 * [How to Get Help with Your Fellowship Application](https://www.profellow.com/tips/how-to-get-help-with-your-fellowship-application/)
 * [Preparing a Fellowship Application](https://funding.yale.edu/applying/how-apply)
 * [Enhancing Your Fellowship Application](https://pathwaystoscience.org/pdf/EnhancingYourFellowshipApplication.pdf)
 
-## Statement Writing
+#### Statement Writing
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 
 
