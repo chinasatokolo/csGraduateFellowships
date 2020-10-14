@@ -64,9 +64,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |
 | [Two Sigma PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-PhD-Fellowship/7272) | November | PhD |
 | [Two Sigma Diversity PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-Diversity-PhD-Fellowship/7273) | November | PhD |
-
 |               |               |              |
-| |  |  |
 
 ## Resources for Applying to Fellowships
 
