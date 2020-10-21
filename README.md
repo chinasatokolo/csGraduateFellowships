@@ -1,5 +1,5 @@
 # Computer Science Awards, Scholarships, & Fellowships
-A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Chinasa Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
+A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
 
 The best way to receive funding is through your respective graduate programs. Most reputable PhD programs provide full funding through a teaching assistantship (TA), research assistantship (RA), or university fellowship. ProFellow has a great list of fully-funded PhD programs in Computer Science [here](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/). As you progress throughout your programs, you may find additional sources of funding helpful to travel to conferences, focus on your research without teaching commitments, or to upgrade your equipment. Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
 
