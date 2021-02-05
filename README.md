@@ -21,6 +21,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
 | [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
 | [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
+| [Wade Scholarship Program](https://www.wit.university/) | Varies | Masters|
 | |  |  |
 | |  |  | 
 
@@ -49,6 +50,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  |  |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  |  |
+| [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
