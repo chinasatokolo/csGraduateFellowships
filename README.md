@@ -42,14 +42,14 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |  |  |
 | [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
-| [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  |  |
+| [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
 | [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |  |  |
 | [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
-| [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  |  |
-| [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  |  |
+| [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
+| [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
@@ -61,6 +61,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
+| [Schmidt Science Fellows](https://schmidtsciencefellows.org/) | May | Postdoc |  | Internal Nomination |
 | [Siebel Scholars](http://www.siebelscholars.com/about) (Open to select schools) | July | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
