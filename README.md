@@ -53,6 +53,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
+| [MIT METEOR Postdoctoral Fellowship Program](https://www.csail.mit.edu/meteor) | June | Postdoc |  |  |
 | [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
 | [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
