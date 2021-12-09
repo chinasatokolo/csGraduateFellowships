@@ -43,6 +43,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |  |  |
 | [Fatima Fellowship](https://abidlabs.github.io/fellowship/) | October | Pre-PhD |  |  |
 | [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |  |  |
+| [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
 | [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |  |  |
