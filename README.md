@@ -47,10 +47,12 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
+| [Graduate Fellowships for STEM Diversity (GFSD)](https://gfsd.onlineapplications.net/applications/) | December | PhD |  |  |
 | [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |  |  |
 | [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
+| [Jane Street Graduate Research Fellowship](https://www.janestreet.com/apply-graduate-research-fellowship/) | December | PhD |  |  |
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
