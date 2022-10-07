@@ -33,7 +33,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |  |  |
 | [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |  |  |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
-| [Air Force Science & Technology Fellowship Program]([https://research.adobe.com/fellowship/ (https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm)) | Rolling | Post-PhD |  |  |
+| [Air Force Science & Technology Fellowship Program](https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm) | Rolling | Post-PhD |  |  |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
 | [Computing Innovation Fellows (CIFellows) Program](https://cra.org/ccc/leadership-development/cifellows/) | TBD | Post-PhD |  |  |
