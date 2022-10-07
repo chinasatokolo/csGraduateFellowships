@@ -53,6 +53,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
 | [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/apply-graduate-research-fellowship/) | December | PhD |  |  |
+| [John von Neumann Fellowship](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/john-von-neumann-fellowship/) | November | Post-PhD |  |  |
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
