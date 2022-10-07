@@ -66,6 +66,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/) | May | Postdoc |  | Internal Nomination |
+| [Simons Fellows in Mathematics](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-fellows/)| September | PhD |  |  |
 | [Siebel Scholars](http://www.siebelscholars.com/about) (Open to select schools) | July | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
