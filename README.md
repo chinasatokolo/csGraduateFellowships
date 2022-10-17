@@ -7,14 +7,19 @@ The best way to receive funding is through your respective graduate programs. Mo
 ## Awards
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
-| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow?utm_source=twitter&utm_medium=social&utm_campaign=awds-esteelauder2020&utm_content=organic) | June | Post-PhD |
+| [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | Rolling | PhD |
+| [Ackermann Award](https://www.eacsl.org/ackermann-award/) | July | PhD |
+| [EATCS Distinguished Dissertation Award](https://eatcs.org/index.php/dissertation-award) | December | PhD |
+| [IEEE ITS Best Dissertation Award](https://ieee-itss.org/awards/best-dissertation/) | June | PhD |
+| [John C. Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/) | January | PhD |
+| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow) | June | Post-PhD |
 | [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
+| [WAGS/ProQuest Innovation in Technology Award](https://wagsonline.org/technology-award-announcement/) | October | PhD |
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
+| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) | December | Both |
 | [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
 | [Intel Scholarship](https://scholarships.uncf.org/Program/Details/9eb15008-3567-45ed-b62f-aa14c784b09a) | December | Both |
 | [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
@@ -76,8 +81,8 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
 | [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |  |  |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
-| [Two Sigma PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-PhD-Fellowship/7272) | November | PhD |  |  |
-| [Two Sigma Diversity PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-Diversity-PhD-Fellowship/7273) | November | PhD |  |  |
+| [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
+| [Two Sigma Diversity PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
 |               |               |              |               |              |
 
 ## Resources for Applying to Fellowships
