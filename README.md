@@ -8,6 +8,8 @@ The best way to receive funding is through your respective graduate programs. Mo
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
 | [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | Rolling | PhD |
+| [ACM SIGCHI Outstanding Dissertation Award](https://sigchi.org/awards/dissertation-award/) | December | PhD |
+| [ACM SIGKDD Outstanding Dissertation Award](https://kdd.org/awards/sigkdd-dissertation-award) | Rolling | PhD |
 | [Ackermann Award](https://www.eacsl.org/ackermann-award/) | July | PhD |
 | [EATCS Distinguished Dissertation Award](https://eatcs.org/index.php/dissertation-award) | December | PhD |
 | [IEEE ITS Best Dissertation Award](https://ieee-itss.org/awards/best-dissertation/) | June | PhD |
