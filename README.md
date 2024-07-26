@@ -75,6 +75,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
 | [PEO Scholar Award](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |  |  |
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
+| [Roblox PhD Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) | August | PhD |  |  |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
 | [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/) | May | Postdoc |  | Internal Nomination |
