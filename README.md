@@ -45,6 +45,7 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
 | [Computing Innovation Fellows (CIFellows) Program](https://cra.org/ccc/leadership-development/cifellows/) | TBD | Post-PhD |  |  |
 | [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |  |  |
+| [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2025) | October | PhD |  |  |
 | [Computer and Information Science and Engineering (CISE) Graduate Fellowships (CSGrad4US)](https://www.nsf.gov/cise/CSGrad4US/) | April | PhD |  |  |
 | [Data Fluencies Dissertation Grants](https://www.ssrc.org/programs/data-fluencies/data-fluencies-dissertation-grants/) | March | PhD |  |  |
 | Datminr Diversity in AI for Good Fellowship | December | PhD |  |  |
