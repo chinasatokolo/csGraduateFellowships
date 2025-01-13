@@ -76,6 +76,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 | [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |  |  |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
 | [PEO Scholar Award](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |  |  |
+| [Quad Fellowship](https://www.quadfellowship.org/) | March | Both |  |  |
 | [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
 | [Roblox PhD Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) | August | PhD |  |  |
 | [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
