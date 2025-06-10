@@ -3,7 +3,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 
 The best way to receive funding is through your respective graduate programs. Most reputable PhD programs provide full funding through a teaching assistantship (TA), research assistantship (RA), or university fellowship. ProFellow has a great list of fully-funded PhD programs in Computer Science [here](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/). As you progress throughout your programs, you may find additional sources of funding helpful to travel to conferences, focus on your research without teaching commitments, or upgrade your equipment. Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships.
 
-_Note: a number of fellowships listed below have been deprecated but are still listed for posterity. Occasionally, companies and organizations revive fellowships, so I would still suggest checking them occasionally._
+_Note: a number of fellowships listed below have been deprecated but are still listed for posterity. Occasionally, companies and organizations revive fellowships, so I would still suggest checking them occasionally. This list is also most useful for students pursuing graduate study in the United States._
 
 ## Awards
 | Name          | Deadline      | Masters/PhD  |
