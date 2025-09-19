@@ -90,6 +90,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 | [Siebel Scholars](http://www.siebelscholars.com/about) (Open to select schools) | July | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
 | [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
+| [Stripe Economics of AI Fellowship](https://stripe.events/fellowship) | April | PhD/Early-career Professors |  |  |
 | [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |  |  |
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
 | [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
