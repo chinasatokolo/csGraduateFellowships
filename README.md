@@ -65,6 +65,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 | [Jane Street Graduate Research Fellowship](https://www.janestreet.com/apply-graduate-research-fellowship/) | December | PhD |  |  |
 | [John von Neumann Fellowship](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/john-von-neumann-fellowship/) | November | Postdoc |  |  |
 | [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
+| [MongoDB PhD Fellowship](https://www.mongodb.com/academia/phd-fellowship) | October | PhD | | |
 | [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
 | [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
