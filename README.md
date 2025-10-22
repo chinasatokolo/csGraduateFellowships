@@ -42,6 +42,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 | [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |  |  |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
 | [Air Force Science & Technology Fellowship Program](https://sites.nationalacademies.org/PGA/Fellowships/AFRL/index.htm) | Rolling | Postdoc |  |  |
+| [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program) |  | PhD |  | Internal Nomination with Partner Universities |
 | [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
 | [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
 | [Computing Innovation Fellows (CIFellows) Program](https://cra.org/ccc/leadership-development/cifellows/) | TBD | Post-PhD |  |  |
