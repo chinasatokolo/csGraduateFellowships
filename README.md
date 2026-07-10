@@ -96,6 +96,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 | [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
 | [Two Sigma PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
 | [Two Sigma Diversity PhD Fellowship](https://www.twosigma.com/community/academic-partnerships/graduate-students/phd-fellowships/) | November | PhD |  |  |
+| [Workday AI Research PhD Fellowship](mailto:workday-ai-research@workday.com) | August | PhD |  |  |
 |               |               |              |               |              |
 
 ## Resources for Applying to Fellowships
