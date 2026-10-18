@@ -107,6 +107,7 @@ _Note: a number of fellowships listed below have been deprecated but are still l
 * [UCLA GRAPES Portal](https://grad.ucla.edu/funding/)
 * [University of Illinois Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder/)
 * [Pathways to Science](https://www.pathwaystoscience.org/grad.aspx)
+* [ScholarMatch](https://www.scholarmatch.me) - Fully funded study abroad scholarship search engine and database for South Asian and international students.
 
 ### Application Tips
 
